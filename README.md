@@ -56,5 +56,5 @@
 
 
 <p align="center">
-  <sub>Simple is not easy — it’s intentional.</sub>
+  <sub>Simplicity is not easy — it’s intentional.</sub>
 </p>
