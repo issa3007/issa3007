@@ -14,6 +14,7 @@
 
 ---
 
+
 ## 🧠 Engineering Approach
 - Architecture first: modules → services → repositories  
 - Predictable API behavior & strict validation  
@@ -22,6 +23,7 @@
 - Simplicity that scales, no overengineering
 
 ---
+
 
 ## 🚀 Current Focus
 - Production-ready NestJS (auth, roles, bookings, media)  
@@ -32,13 +34,6 @@
 
 ---
 
-## 🎯 Goals
-- Become a strong backend engineer (EU/US level)  
-- Build maintainable, well-structured API systems  
-- Develop architectural intuition & production maturity  
-
----
-
 
 ## 🔍 Working Style
 - Clear structure over clever tricks
@@ -46,6 +41,14 @@
 - Explicit flows, predictable behavior
 - Consistent naming, consistent logic
 - Code that can be understood in a week, not in a minute
+
+---
+
+
+## 🎯 Goals
+- Become a strong backend engineer (EU/US level)  
+- Build maintainable, well-structured API systems  
+- Develop architectural intuition & production maturity  
 
 ---
 
