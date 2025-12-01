@@ -41,10 +41,10 @@
 ---
 
 
-## 🎯 Goals
-- Become a strong backend engineer (EU/US level)  
+## 🎯 Goals 
 - Build maintainable, well-structured API systems  
-- Develop architectural intuition & production maturity  
+- Develop architectural intuition & production maturity
+- Become a better developer overall  
 
 ---
 
