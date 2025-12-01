@@ -1,8 +1,4 @@
 <h1 align="center">👋 Issa — Backend Developer</h1>
-<p align="center">
-  <strong>NestJS • TypeScript • MySQL • Docker • AWS</strong><br/>
-  Clean Architecture • High-quality APIs • Production Mindset
-</p>
 
 ---
 
