@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  <sub>Minimal. Clean. Professional.</sub>
+  <sub>Simple is not easy — it’s intentional.</sub>
 </p>
