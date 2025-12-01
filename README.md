@@ -39,10 +39,6 @@
 
 ---
 
-## ✉️ Contact
-**Discord:** code_issa
-
----
 
 ## 🔍 Working Style
 - Clear structure over clever tricks
@@ -52,6 +48,13 @@
 - Code that can be understood in a week, not in a minute
 
 ---
+
+
+## ✉️ Contact
+**Discord:** code_issa
+
+---
+
 
 <p align="center">
   <sub>Simple is not easy — it’s intentional.</sub>
