@@ -4,16 +4,16 @@
 
 ## ⚙️ Tech Stack
 
-**Backend**
+**Backend**:
 NestJS · Node.js · TypeScript · Express
 
-**Database**
+**Database**:
 MySQL · TypeORM · QueryBuilder
 
-**Infrastructure**
+**Infrastructure**:
 Docker · Docker Compose · AWS
 
-**Tools**
+**Tools**:
 Postman · TablePlus · Git
 
 ---
