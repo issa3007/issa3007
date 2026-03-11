@@ -8,20 +8,17 @@ I mostly work on building APIs and backend services, focusing on simple architec
 
 ## Stack
 
-TypeScript · Node.js · NestJS · Express
-MySQL · TypeORM · SQL
-Docker · AWS
-
-Tools: Git · Postman · TablePlus
-
+Languages/Frameworks: TypeScript · Node.js · NestJS · Express.js  
+Database: MySQL · TypeORM · SQL  
+Infrastructure: Docker · Docker Compose · AWS
 ---
 
 ## Interests
 
-* backend architecture
-* database design
+* Backend architecture
+* Database design
 * API design
-* system reliability
+* System reliability
 
 ---
 
