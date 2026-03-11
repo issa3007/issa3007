@@ -8,9 +8,11 @@ I mostly work on building APIs and backend services, focusing on simple architec
 
 ## Stack
 
+
 Languages/Frameworks: TypeScript · Node.js · NestJS · Express.js  
 Database: MySQL · TypeORM · SQL  
 Infrastructure: Docker · Docker Compose · AWS
+
 ---
 
 ## Interests
