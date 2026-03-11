@@ -1,51 +1,30 @@
-<h1 align="center">👋 Issa — Backend Developer</h1>
+# Issa
+
+Backend developer working with **TypeScript and NestJS**.
+
+I mostly work on building APIs and backend services, focusing on simple architecture, clear code and reliable database interaction.
 
 ---
 
-## ⚙️ Tech Stack
+## Stack
 
-**Backend**:
-NestJS · Node.js · TypeScript · Express
+TypeScript · Node.js · NestJS · Express
+MySQL · TypeORM · SQL
+Docker · AWS
 
-**Database**:
-MySQL · TypeORM · QueryBuilder
-
-**Infrastructure**:
-Docker · Docker Compose · AWS
-
-**Tools**:
-Postman · TablePlus · Git
+Tools: Git · Postman · TablePlus
 
 ---
 
-## 🧠 Engineering Principles
+## Interests
 
-* Clear architecture: modules → services → repositories
-* Predictable APIs with strict validation
-* Clean and readable code
-* Structured error handling
-* Simple solutions without overengineering
-
----
-
-## 🚀 Current Focus
-
-* Building production-style APIs with NestJS and Express
-* Authentication & authorization systems (JWT, roles)
-* Dockerized backend environments
-* Working with AWS services
-* Backend testing with Jest
+* backend architecture
+* database design
+* API design
+* system reliability
 
 ---
 
-## 🎯 Goals
-
-* Build maintainable backend systems
-* Improve architectural thinking
-* Grow into a strong backend engineer
-
----
-
-## ✉️ Contact
+## Contact
 
 Discord: `code_issa`
