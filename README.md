@@ -11,6 +11,7 @@ I mostly work on building APIs and backend services, focusing on simple architec
 
 Languages/Frameworks: Node.js · NestJS · Express.js  
 Database: MySQL · TypeORM · SQL · PostgreSQL · MongoDB
+
 Infrastructure: Docker · Docker Compose · AWS
 
 ---
